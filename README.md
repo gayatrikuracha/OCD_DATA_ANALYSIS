@@ -38,9 +38,9 @@ Based on the findings, it is recommended to:
 # References
   OCD Patient Dataset : [Link](https://github.com/gayatrikuracha/OCD_DATA_ANALYSIS/blob/main/ocd_patient_dataset.csv)
   
-  SQL Code: [Link](url)
+  SQL Code: [Link](https://github.com/gayatrikuracha/OCD_DATA_ANALYSIS/blob/main/ocd%20final%20sql%20code.sql)
   
-  Power BI Dashboard: [Link](url)
+  Power BI Dashboard: [Link](https://github.com/gayatrikuracha/OCD_DATA_ANALYSIS/blob/main/ocd%20dataset%20dashboard.pbix)
 
   Excel Dashboard: [Link](https://github.com/gayatrikuracha/OCD_DATA_ANALYSIS/blob/main/excel%20ocd%20visual.xlsx)
 
