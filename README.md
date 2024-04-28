@@ -35,4 +35,14 @@ Based on the findings, it is recommended to:
 1. The analysis is based on a specific dataset and may not be generalizable to all OCD patients.
 2. The dataset may contain inherent biases or limitations, such as underrepresentation of certain demographics or reliance on self-reported data.
 
+# References
+  OCD Patient Dataset : [Link](https://github.com/gayatrikuracha/OCD_DATA_ANALYSIS/blob/main/ocd_patient_dataset.csv)
+
+  Power BI Dashboard: [Link](url)
+
+  Excel Dashboard: [Link](url)
+
+  SQL Code: [Link](url)
+
+
 
